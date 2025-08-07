@@ -44,9 +44,9 @@ function App() {
           <p className="md:w-2/3 w-4/5 text-center text-2xl md:text-3xl font-inter">A student interested in Computer Science and its uses in Robotics. Experienced in Web Development, Python, Java, and Competitive Programming, as a USA Computing Olympiad Silver competitior. Projects include robotics, community outreach, and apps solving real world problems.</p>
             <h1 className="w-full text-center text-6xl font-inter font-bold mt-16">Projects</h1>
           <div className="flex flex-row flex-wrap items-center justify-center">
-            <Card title="FinTrack" para="Tracks spending and generates AI-powered financial summaries, turning raw transactions into clear, personalized insights." link="https://googolgenius.github.io/fintrack/"></Card>
+            <Card title="FinTrack" para="A personal finance tracker designed to help students take control of their money with clear insights, goal-setting, and spending analysis." link="https://googolgenius.github.io/fintrack/"></Card>
             <Card title="USACO" para="A collection of my competitive programming USA Computing Olympiad solutions, ranging from Bronze to Gold." link="https://github.com/absuii/Competitive-Programming"></Card>
-            <Card title="Robotics" para="Autonomous and teleop systems engineered for the Into the Deep season, featuring real-time path planning, advanced PID control, and sensor-based localization." link="https://github.com/DarkMatter4150/into-the-deep"></Card>
+            <Card title="Robotics" para="Autonomous and teleop systems engineered for the Into the Deep season." link="https://github.com/DarkMatter4150/into-the-deep"></Card>
             <Card title="Cedar Rapids STEM Circle" para="Interactive site built to promote STEM opportunities for students in Cedar Rapids, featuring live events, project showcases, and community-driven resources." link="https://cedar-rapids-stem-circle.github.io/Website/"></Card>
           </div>
            <div className="m-12"></div>
