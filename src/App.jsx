@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import abhayImg from './assets/abhay.png';
 import githubLogo from './assets/github-mark-white.png';
 import gmaillogo from './assets/mail.svg';
