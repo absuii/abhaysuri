@@ -45,7 +45,7 @@ function App() {
             <Card title="FinTrack" para="A personal finance tracker designed to help students take control of their money with clear insights, goal-setting, and spending analysis." link="https://googolgenius.github.io/fintrack/"></Card>
             <Card title="USACO" para="A collection of my competitive programming USA Computing Olympiad solutions, ranging from Bronze to Gold." link="https://github.com/absuii/Competitive-Programming"></Card>
             <Card title="Robotics" para="Autonomous and teleop systems engineered for the Into the Deep season." link="https://github.com/DarkMatter4150/into-the-deep"></Card>
-            <Card title="Cedar Rapids STEM Circle" para="Interactive site built to promote STEM opportunities for students in Cedar Rapids, featuring live events, project showcases, and community-driven resources." link="https://cedar-rapids-stem-circle.github.io/Website/"></Card>
+            <Card title="Cedar Rapids STEM Circle" para="Interactive site built to promote STEM opportunities for students in Cedar Rapids, featuring live events, project showcases, and community-driven resources." link="https://cedarrapidsstemcircle.web.app/"></Card>
           </div>
            <div className="m-12"></div>
         </div>
