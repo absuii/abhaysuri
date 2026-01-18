@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import abhayImg from './assets/abhay.png';
+import abhayImg from './assets/abhay.jpg';
 import githubLogo from './assets/github-mark-white.png';
 import gmaillogo from './assets/mail.svg';
 import './App.css';
