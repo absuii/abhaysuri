@@ -39,9 +39,10 @@ function App() {
         </div>
         <div className="flex flex-col items-center justify-center">
           <h1 className="w-full text-center text-6xl font-inter font-bold">About Me</h1>
-          <p className="md:w-2/3 w-4/5 text-center text-2xl md:text-3xl font-inter">A student interested in Computer Science and its uses in Robotics. Experienced in Web Development, Python, Java, and Competitive Programming, as a USA Computing Olympiad Silver competitior. Projects include robotics, community outreach, and apps solving real world problems.</p>
+          <p className="md:w-2/3 w-4/5 text-center text-2xl md:text-3xl font-inter">A student interested in Machine Learning and its uses in Robotics and Computer Science. Experienced in Web Development, Python, Java, and Competitive Programming, as a USA Computing Olympiad Gold competitor. Projects include ML models, robotics, community outreach, and apps solving real world problems.</p>
             <h1 className="w-full text-center text-6xl font-inter font-bold mt-16">Projects</h1>
           <div className="flex flex-row flex-wrap items-center justify-center">
+            <Card title="Summer ML Projects" para="A collection of projects exploring machine learning on the FER2013, MNIST, and UCI Adult Income datasets using classical models (Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Gradient Boosting) and CNNs." link="https://github.com/absuii/Summer-ML-Projects/"></Card>
             <Card title="FinTrack" para="A personal finance tracker designed to help students take control of their money with clear insights, goal-setting, and spending analysis." link="https://googolgenius.github.io/fintrack/"></Card>
             <Card title="USACO" para="A collection of my competitive programming USA Computing Olympiad solutions, ranging from Bronze to Gold." link="https://github.com/absuii/Competitive-Programming"></Card>
             <Card title="Robotics" para="Autonomous and teleop systems engineered for the Into the Deep season." link="https://github.com/DarkMatter4150/into-the-deep"></Card>
